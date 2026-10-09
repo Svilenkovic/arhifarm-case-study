@@ -4,7 +4,7 @@
 
 Website and content management system for an industrial cleaning and diagnostics company.
 
-**[arhifarm.rs](https://arhifarm.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/arhifarm) · [Srpski](README.sr.md)
+**[arhifarm.rs](https://arhifarm.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/arhifarm) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -39,7 +39,7 @@ The client edits the site from a panel I built for them. A page is put together 
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LocalBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LocalBusiness`.
 
 ## Screenshots
 
